@@ -1,0 +1,31 @@
+
+{
+    "compilerOptions": {
+      "target": "ESNext",
+      "sourceMap": true,
+      "outDir": "../tests-out",
+      //"target": "es6",
+      "skipLibCheck": true,
+      "esModuleInterop": true,
+      "allowSyntheticDefaultImports":  true,
+      "strict": true,
+      "forceConsistentCasingInFileNames": true,
+      "noFallthroughCasesInSwitch": true,
+      "module": "commonjs",
+      "moduleResolution": "Node",
+      "resolveJsonModule": true,
+      "isolatedModules": true,
+      "noEmit": false,
+      "declaration": true
+    },
+    "include": [
+      "lib",
+      "tests",
+      "pageFactory/**/*",
+      "support/**/*",
+      "upload"
+, "support/context/Actors.ts"   ],
+    "exclude": [
+      "node_modules"
+    ]
+  }

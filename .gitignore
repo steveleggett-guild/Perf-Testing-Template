@@ -1,0 +1,16 @@
+node_modules/
+/playwright-report/
+/playwright/.cache/
+/test-results/
+**/.DS_Store
+/test-results/
+/allure-results/
+/allure-report/
+/playwright-report/
+/playwright/.cache/
+/your-result-folder/
+adminStorageState.json
+memberStorageState.json
+guildSuperUserStorageState.json
+/Downloads/
+node_modules
