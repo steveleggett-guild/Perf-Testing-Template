@@ -1,23 +1,22 @@
-## GUI test automation project using Playwright
+## Performance Testing Template
 
-This is the mono-repo for academic GUI automation testing.
-
+This is the performance testing repository for the Performance Testing Template. The objective of which is to provide a template as a "getting started" point for performance tests. More questions regarding the repo can be sent to Steve Leggett, directly, or Chris Velgersdyk.
 ---
 
 ### Ownership & Contact
 
 <table>
   <tr>
-    <th>Squad</th>
-    <td>Academic QE Pillar </td>
+    <th>Performance Team</th>
+    <td>Performance Engineering</td>
   </tr>
   <tr>
     <th>Slack Channel</th>
-    <td>#academic-pillar-qe</td>
+    <td>#team-sdet</td>
   </tr>
   <tr>
     <th>Confluence</th>
-    <td><a href="https://guild-education.atlassian.net/wiki/spaces/QE/overview">Guild QE Space</a></td>
+    <td><a href="https://guild-education.atlassian.net/wiki/spaces/QE/pages/2273378361/Performance+Engineering+QE+Enablement">Guild Performance Enablement</a></td>
   </tr>
 </table>
 
